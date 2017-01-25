@@ -12,6 +12,7 @@
 		9ACA41A41E38E53800B94E55 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9ACA41A21E38E53800B94E55 /* Main.storyboard */; };
 		9ACA41A61E38E53800B94E55 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9ACA41A51E38E53800B94E55 /* Assets.xcassets */; };
 		9ACA41A91E38E53800B94E55 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9ACA41A71E38E53800B94E55 /* LaunchScreen.storyboard */; };
+		9ACA41B11E38E63600B94E55 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ACA41B01E38E63600B94E55 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		9ACA41A51E38E53800B94E55 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9ACA41A81E38E53800B94E55 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9ACA41AA1E38E53800B94E55 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9ACA41B01E38E63600B94E55 /* SecondViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				9ACA419E1E38E53800B94E55 /* AppDelegate.swift */,
 				9ACA41A01E38E53800B94E55 /* ViewController.swift */,
+				9ACA41B01E38E63600B94E55 /* SecondViewController.swift */,
 				9ACA41A21E38E53800B94E55 /* Main.storyboard */,
 				9ACA41A51E38E53800B94E55 /* Assets.xcassets */,
 				9ACA41A71E38E53800B94E55 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9ACA41B11E38E63600B94E55 /* SecondViewController.swift in Sources */,
 				9ACA41A11E38E53800B94E55 /* ViewController.swift in Sources */,
 				9ACA419F1E38E53800B94E55 /* AppDelegate.swift in Sources */,
 			);
